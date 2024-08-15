@@ -2,9 +2,13 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# OneTask 🌐: A Solução Ideal para Sua Landing Page SaaS
+# OneTask 🌐: A Solução para Sua Landing Page SaaS
 
 **OneTask** é uma landing page sofisticada e responsiva para SaaS, desenvolvida usando **Next.js**, **Framer Motion** e **Tailwind CSS**. O projeto foi criado para oferecer uma experiência de usuário moderna e dinâmica, com foco em um design escuro que combina com a tendência estética contemporânea de aplicações SaaS.
+
+> Versões PT-BR - EN
+
+![banner](https://github.com/Carlos-Levi/OneTask-WebSite/blob/main/public/one-task.png?raw=true)
 
 ## Tecnologias Utilizadas
 
